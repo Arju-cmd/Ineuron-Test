@@ -1,2 +1,2 @@
-# Ineuron-Test
+# Ineuron-Assignments
 Python Assignment
